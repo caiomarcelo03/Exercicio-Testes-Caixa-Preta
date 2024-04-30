@@ -1,4 +1,4 @@
-Exercício individual - Tema: App microsoft - Testes Caixa Preta
+## Exercício individual - Tema: App microsoft - Testes Caixa Preta
 
 Este projeto consiste em duas etapas para testes de uma plataforma (Microsoft). Na primeira etapa, são elaborados fluxos de atividades com base nos processos de casos de uso da tela de login, e os testes são registrados em uma planilha de aceitação. Na segunda etapa, são realizados testes automatizados de caixa-preta utilizando o Selenium IDE, seguindo os cenários definidos anteriormente, e um vídeo é gravado para documentar os resultados.
 

@@ -22,8 +22,6 @@ Para esta atividade, foram utilizados os seguintes softwares:
 
 ## Instalação
 
-[Link para instruções de instalação](#)
-
 Para executar os testes, foram utilizadas as seguintes ferramentas e configurações:
 
 - **Ferramenta de Testes**: [Selenium IDE](#)

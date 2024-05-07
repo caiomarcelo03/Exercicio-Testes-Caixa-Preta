@@ -41,7 +41,7 @@ Os pontos de cobertura de teste da tela de login incluíram:
 
 ## Registro de teste
 
-[Link para o vídeo gravado](#)
+[https://youtu.be/sI8qljLtZPU](#)
 
 ## Autor
 
